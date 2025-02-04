@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/udayvarma/UdayWorkSpace/Projects/01PoCs/20250107_IoTMQQTBcNwDApp-02/contracts/contractStWrFwDa.sol": {
+      "lastModificationDate": 1736219911444,
+      "contentHash": "addd56c8bd084f736bfaa456276387f4",
+      "sourceName": "contracts/contractStWrFwDa.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "StoreWaterFlowData_0107"
+      ]
+    }
+  }
+}
